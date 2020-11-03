@@ -8,12 +8,12 @@ Project for MSCH-C220, 11 November 2020
 Use the mouse to conrol the paddle. The player can choose (in the HUD) to turn on or off certain features like color, sound effects and glow.
 
 ## Extra features:
-HUD
-Ball color changing
-Ball size changing
-Ball is sprite
-Next Level HUD
-Win and Lose HUD
+#### HUD
+#### Ball color changing
+#### Ball size changing
+#### Ball is sprite
+#### Next Level HUD
+#### Win and Lose HUD
 
 
 ## Implementation
